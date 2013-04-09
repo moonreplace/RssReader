@@ -1,0 +1,16 @@
+{
+  "name": "RssReader",
+  "version": "0.0.1",
+  "description": "ERROR: No README.md file found!",
+  "main": "Just manage the subscribed rss ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "rss",
+    "reader"
+  ],
+  "author": "Chris Dai",
+  "license": "MIT"
+}
